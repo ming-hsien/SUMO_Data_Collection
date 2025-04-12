@@ -1,0 +1,7 @@
+<additional>
+    <randomTrips type="all" 
+                 begin="0" 
+                 end="3600" 
+                 from="edge_1"   
+                 file="random_routes.rou.xml"/>
+</additional>
